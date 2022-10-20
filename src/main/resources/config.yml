@@ -1,0 +1,5 @@
+#Конфигурационный файл
+config:
+  from: C:/Users/User/IdeaProjects/sber/files/from #папка источник файлов
+  to: C:/Users/User/IdeaProjects/sber/files/to #папка размещения обработанных файлов
+  ext: txt,log #фильтр расширения обрабатываемых файлов
